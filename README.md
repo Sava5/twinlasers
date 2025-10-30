@@ -8,5 +8,6 @@
 ![Нижняя сторона детали с ребрами жесткости](C:\si141\ivanovSaveliy\09\images\низ.PNG)
 # Фотографии установки
 ![Установка](C:\si141\ivanovSaveliy\09\images\Установка.PNG)
-#Модель pro
+# Модель pro
 ![Model pro](C:\si141\ivanovSaveliy\09\images\platez_twin_lasers_pro.PNG)
+
