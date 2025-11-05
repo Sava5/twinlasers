@@ -9,6 +9,7 @@
 # Фотографии установки
 ![Установка](Установка.PNG)
 # Модель pro
-![Model pro](plate_twin_lasers_pro.PNG)
+![Model pro](platez_twin_lasers_pro.PNG)
+
 
 
