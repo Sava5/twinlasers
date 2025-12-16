@@ -6,7 +6,7 @@ use <nuts.scad>
 //d_big_nut = 24;
 h_nut = 4;
 
-rib_height_new = 4;
+rib_height_new = 4
 
 
 plate_debth_new = 2.8;
